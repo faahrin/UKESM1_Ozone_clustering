@@ -21,11 +21,11 @@ and then run `ipython3`.
 
 ## Project Organization
 ```
-├── LICENSE
-├── README.md          <- The top-level README for developers using this project.
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-├── report             <- Generated analysis as HTML, PDF, LaTeX, etc.
-├── requirements       <- Directory containing the requirement files.
-
+├── LICENSE            <- The top-level README for developers using this project.
+├── README.md          <- The top-level README for developers using this project
+├── data_in            <- Subset of UKESM1 ozone data analysed in this work (accessed via Pangeo)
+├── figures            <- Figures from the paper
+├── models             <- Saved parameters for the GMM model
+├── *.ipynb            <- Example notebooks with source code 
 
 
