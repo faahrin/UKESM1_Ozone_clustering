@@ -1,6 +1,7 @@
 # Ozone clustering in UKESM
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+ <a href="https://zenodo.org/badge/latestdoi/479902597"><img src="https://zenodo.org/badge/479902597.svg" alt="DOI"></a>
 
 ## Requirements
 - Python 3.8+
